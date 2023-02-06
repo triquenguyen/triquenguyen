@@ -1,5 +1,5 @@
 ### Hi there 👋, welcome on board!
-I'm Trique Nguyen, Software Engineering Undergraduate at San Jose State University
+I'm Trique Nguyen, a thriving Software Engineering Undergraduate at San Jose State University
 ### 🔭 I’m currently working on 
 - Forward: a startup project with other Graduate and Senior students
 - Leetcode Discord Bot: a club project at Software and Computer Engineering - SJSU
