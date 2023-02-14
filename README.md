@@ -1,7 +1,7 @@
 ### Hi there 👋, welcome on board!
 I'm Trique Nguyen, a thriving Software Engineering Undergraduate student at San Jose State University
 ### 🔭 I’m currently working on 
-- Forward: a startup project with other Graduate and Senior students (Finalist at Silicon Valley Innovation Challenge 2023 and SpartUp Incubator Program Member)
+- Forward: a startup project collaborate with other Graduate and Senior students (Finalist at Silicon Valley Innovation Challenge 2023 and SpartUp Incubator Program Member)
 - Leetcode Discord Bot: a club project at Software and Computer Engineering - SJSU
 - Personal Portfolio (Soon) 
 ### 🌱 I’m currently learning 
