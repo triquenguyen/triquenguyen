@@ -7,7 +7,9 @@ I'm Trique Nguyen, a thriving Software Engineering Undergraduate student at San 
 ### 🌱 I’m currently learning 
 - Data Structures and Algorithms
 - Object Oriented Design
-- Full Stack Web Developement
+- Vue.js
+- Docker
+- Redux
 ### 👯 I’m looking to collaborate on 
 - Team project
 - Hackathons 
