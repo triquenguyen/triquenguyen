@@ -14,7 +14,7 @@ I'm Trique Nguyen, a thriving Software Engineering Undergraduate student at San 
 ### 👯 I’m looking to collaborate on 
 - Team project
 - Hackathons 
-  - Past Hackathons: Best Data Science at Hackrithmitic 2 hosted by Major League Hacking, Nor Cal Spring Hack 2023, TreeHacks 2023
+  - Past Hackathons: Best Data Science at Hackrithmitic 2 - Major League Hacking, Nor Cal Spring Hack 2023, TreeHacks 2023
   - Upcoming: SJSU HonorsX: Ideate for Change 2023 (March), LA Hacks 2023 (April)
 ### 📫 Contact me
 - [LinkedIn](https://www.linkedin.com/in/trique-nguyen/)
