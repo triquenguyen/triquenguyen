@@ -3,7 +3,6 @@ I'm Trique Nguyen, a thriving Software Engineering Undergraduate student at San 
 ### 🔭 I’m currently working on 
 - Forward: a startup project (Finalist at SVIC 2023 and SpartUp Incubator Program Member) collaborate with other Graduate and Senior students 
 - Clark (F.K.A. Core-v4): the official website of Software and Computer Engineering Society- SJSU (SCE)
-- Leetcode Discord Bot: a club project at SCE
 - Personal Portfolio (Soon) 
 ### 🌱 I’m currently learning 
 - Data Structures and Algorithms
