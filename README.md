@@ -8,8 +8,6 @@ I'm Trique Nguyen, a thriving Software Engineering Undergraduate student at San 
 - Data Structures and Algorithms
 - Object Oriented Design
 - Next.js
-- Docker
-- Redux
 ### 👯 I’m looking to collaborate on 
 - Team project
 - Hackathons 
