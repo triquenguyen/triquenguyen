@@ -4,9 +4,8 @@ I'm Trique Nguyen, a thriving Software Engineering Undergraduate student at San 
 - Forward: a startup project (Finalist at SVIC 2023 and SpartUp Incubator Program Member) collaborate with other Graduate and Senior students 
 - Clark (F.K.A. Core-v4): the official website of Software and Computer Engineering Society- SJSU (SCE)
 ### 🌱 I’m currently learning 
-- Data Structures and Algorithms
-- Object Oriented Design
 - Deep Learning, A.I.
+- Mobile Development (Flutter & Go)
 ### 👯 I’m looking to collaborate on 
 - Team project
 - Hackathons 
