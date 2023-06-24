@@ -2,7 +2,7 @@
 I'm Trique Nguyen, a thriving Software Engineering Undergraduate student at San Jose State University. Throughout my college journey, I have been developing skills in Full Stack Development and experience in A.I. based products. I consistently build projects at Hackathons and contribute to engineering club projects.
 ### 🔭 I’m currently working on 
 - Forward: a startup project (Finalist at SVIC 2023 and SpartUp Incubator Program Member) collaborate with other Graduate and Senior students 
-- Clark (F.K.A. Core-v4): the official website of Software and Computer Engineering Society- SJSU (SCE)
+- NewsSpeakify: A mobile app that transforms news articles to speech
 ### 🌱 I’m currently learning 
 - Deep Learning, A.I.
 - Mobile Development (Flutter & Go)
