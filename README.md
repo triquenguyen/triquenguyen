@@ -6,6 +6,7 @@ I'm Trique Nguyen, a thriving Software Engineering Undergraduate student at San 
 ### 🌱 I’m currently learning 
 - Deep Learning, A.I.
 - Mobile Development (Flutter & Go)
+- DBMS (MySQL)
 ### 👯 I’m looking to collaborate on 
 - Team project
 - Hackathons 
